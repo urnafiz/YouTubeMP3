@@ -1,7 +1,7 @@
 # YouTubeMP3
 YouTube MP3 | Most Popular YouTube To MP3 Converter
 
-The journey was started in December 2019
+The journey started in December 2019
 
 ## Snapshots
 - [January 10, 2020](https://web.archive.org/web/20200110182452/youtubemp3.biz)
